@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>CalculatorFramedork</id>
+    <version>1.0.0</version>
+    <title>Example framework whith basic operations.</title>
+    <authors>JArdila</authors>
+    <owners>JArdila</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Release for test enviroment.</description>
+    <copyright>Copyright 2017</copyright>
+  </metadata>
+</package>
