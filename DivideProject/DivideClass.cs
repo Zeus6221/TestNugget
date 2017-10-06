@@ -8,6 +8,7 @@ namespace DivideProject
 {
     public class DivideClass
     {
+        //fkjsdalfjalkjfdsal
         public double DivideMethod(double a, double b)
         {
             return a / b;
